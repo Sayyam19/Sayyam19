@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyam19&label=Profile%20views&color=0e75b6&style=flat" alt="sayyam19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sayyamj91672821" target="blank"><img src="https://img.shields.io/twitter/follow/sayyamj91672821?logo=twitter&style=for-the-badge" alt="sayyamj91672821" /></a> </p>
+<p align="left"> <a href="https://twitter.com/okay_lets_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/sayyamj91672821?logo=twitter&style=for-the-badge" alt="sayyamj91672821" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
