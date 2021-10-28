@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayyam Jain</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyam19&label=Profile%20views&color=0e75b6&style=flat" alt="sayyam19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/okay_lets_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/sayyamj91672821?logo=twitter&style=for-the-badge" alt="sayyamj91672821" /></a> </p>
+<p align="left"> <a href="https://twitter.com/okay_lets_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/okay_lets_tweet?logo=twitter&style=for-the-badge" alt="okay_lets_tweet" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
